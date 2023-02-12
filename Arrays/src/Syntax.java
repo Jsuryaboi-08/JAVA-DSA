@@ -20,7 +20,7 @@ public class Syntax {
          */
         String str = null;// this is fine because it is a non-primitive data type
         //int num  = null; -> this line gives an error
-        
+        // hemlo bro, plzz free merge
 
 
     }
